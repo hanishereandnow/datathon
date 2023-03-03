@@ -4,8 +4,7 @@
   <br> Kaggle Instacart Basket Analysis (2017년 연간 데이터) 데이터를 기반으로 프로젝트를 진행하였습니다.
 <br/><br/>
 
-# 프로젝트명: [ Instacart 데이터 분석 기반의 
-              마케팅 전략 제안 ]
+# 프로젝트명: [ Instacart 데이터 분석 기반의 </마케팅 전략 제안 ]
 <br/>
 
 ## 문제 인식
