@@ -48,6 +48,8 @@
 * 데이터 분석이 비즈니스 배경(도메인 지식)과 밀접한 관련이 있다는 점
 * 같은 데이터셋이라도 어떤 목표에 초점을 맞추는 지에 따라 분석 방향이 달라질 수 있다는 점
 
+<br/>
+
 ## 요약 슬라이드
 ![image](https://user-images.githubusercontent.com/106140951/222625412-023adecd-fa09-4f84-a84c-c6ad9a08ff3e.png)
 ![image](https://user-images.githubusercontent.com/106140951/222625436-f9d3c9aa-9861-4947-b8cf-2230a9b45277.png)
